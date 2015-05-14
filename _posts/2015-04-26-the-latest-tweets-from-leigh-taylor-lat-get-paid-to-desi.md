@@ -1,4 +1,18 @@
 ---
+isBasedOnUrl: "https://twitter.com/lat"
+inLanguage: English
+starred: false
+keywords:
+  - fastcodesign
+  - thegrid
+  - awwwards
+  - http
+  - how-the-grid-will-automate-web-design-without-killing-the-designer
+  - "3044670"
+  - designer
+  - www
+  - tylerh
+  - pic
 author:
   - name: lat
     url: "http://twitter.com/lat"
@@ -17,32 +31,20 @@ author:
           - 157
           - 146
 related: []
-publisher:
-  url: "http://twitter.com"
-  name: Twitter
-  favicon: "https://abs.twimg.com/favicons/favicon.ico"
-  domain: twitter.com
-keywords:
-  - fastcodesign
-  - thegrid
-  - awwwards
-  - http
-  - how-the-grid-will-automate-web-design-without-killing-the-designer
-  - "3044670"
-  - designer
-  - www
-  - tylerh
-  - pic
 description: "The latest Tweets from Leigh Taylor (@lat). Get paid to design. AI wrangler. Dealer of gifs. Easily distrac @GravitaCo @theGrid"
-inLanguage: English
 app_links: []
-isBasedOnUrl: "https://twitter.com/lat"
 datePublished: "2015-04-26T01:17:26.820Z"
-dateModified: "2015-04-26T01:18:04.940Z"
+dateModified: "2015-05-14T17:04:51.300Z"
 sourcePath: _posts/2015-04-26-the-latest-tweets-from-leigh-taylor-lat-get-paid-to-desi.md
 published: true
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: "http://twitter.com"
+  favicon: "https://abs.twimg.com/favicons/favicon.ico"
 _type: Comment
 _context: "http://schema.org"
 
 ---
-> The latest Tweets from Leigh Taylor &lpar;&commat;lat&rpar;&period; Get paid to design&period; AI wrangler&period; Dealer of gifs&period; Easily distrac &commat;GravitaCo &commat;theGrid
+> The latest Tweets from Leigh Taylor (@lat). Get paid to design. AI wrangler. Dealer of gifs. Easily distrac @GravitaCo @theGrid
