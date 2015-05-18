@@ -16,7 +16,7 @@ app_links: []
 isBasedOnUrl: "https://www.youtube.com/watch?v=OXA4-5x31V0"
 title: "The Grid | AI Websites That Design Themselves"
 datePublished: "2015-05-08T15:16:06.364Z"
-dateModified: "2015-05-08T15:16:06.364Z"
+dateModified: "2015-05-18T13:22:45.420Z"
 sourcePath: _posts/2015-05-08-the-grid-or-ai-websites-that-design-themselves.md
 published: true
 _type: VideoObject
