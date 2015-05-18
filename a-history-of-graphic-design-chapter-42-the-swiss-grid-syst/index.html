@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="the-grid-solution" content=" " /><style type="text/css">
+  .box-sizing {
+  -o-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html {
+  width: 100%;
+}
+body {
+  width: 100%;
+  background: #eeeeee;
+  color: #bbbbbb;
+  overflow-x: hidden;
+}
+body:after {
+  content: "";
+  position: fixed;
+  left: 50%;
+  top: 0;
+  height: 100%;
+  border-right: 1px solid #dddddd;
+  opacity: .2;
+  z-index: -1;
+}
+@media screen and (max-width: 720px) {
+  body:after {
+    display: none;
+  }
+}
+body a,
+body .cta {
+  color: #cccccc;
+  text-decoration: none;
+  display: inline-block;
+}
+body a:hover *,
+body .cta:hover * {
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
+  -ms-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-delay: 0s;
+  -moz-transition-delay: 0s;
+  -o-transition-delay: 0s;
+  -ms-transition-delay: 0s;
+  transition-delay: 0s;
+  -webkit-transition-timing-function: linear;
+  -moz-transition-timing-function: linear;
+  -o-transition-timing-function: linear;
+  -ms-transition-timing-function: linear;
+  transition-transition-timing-function: linear;
+  -webkit-transition-property: all;
+  -moz-transition-property: all;
+  -ms-transition-property: all;
+  transition-property: all;
+  opacity: .8;
+}
+*,
+*:before,
+*:after {
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern";
+  -webkit-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern=1";
+  box-sizing: inherit;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-weight: normal;
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+article.post .title {
+  color: #aaaaaa;
+}
+article.post .description {
+  color: #bbbbbb;
+}
+article.post .overlay {
+  opacity: 0.06;
+}
+article.post .attribution .source {
+  color: #dddddd;
+}
+article.post .attribution .name {
+  color: #bbbbbb;
+}
+article.post .attribution .avatar {
+  background-size: cover;
+}
+svg text,
+svg path {
+  fill: #aaaaaa;
+}
+
+</style><style id="gss-precomputed">
+@media (max-width: 720px) {
+#u22{font-size: 0.16rem;}
+#u22:before{content: ""; display: none;}
+#u21{font-size: 0.16rem;}
+#u206eb930-64a1-4758-94d9-36c146b6b475{font-size: 0.16rem;}
+#u5{font-size: 0.16rem;}
+#u3{font-size: 0.1872rem;}
+
+#u4{font-size: 0.24rem;}
+
+#u7{font-size: 0.16rem;}
+
+#u17{overflow: hidden;;font-size: 0.16rem;}
+#u10{height: 3rem; width: 3.6rem; position: absolute; top: -0.51rem; left: 0rem;;font-size: 0.16rem;}
+
+#u19{font-size: 0.16rem;}
+#u19>article:nth-of-type(1){font-size: 0.16rem;}
+#u19>article:nth-of-type(1)>h1:nth-of-type(1){font-size: 0.16rem;}
+
+#u19>article:nth-of-type(1)>p:nth-of-type(1){font-size: 0.16rem;}
+
+#u19>article:nth-of-type(1)>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u23{font-size: 0.16rem;}
+
+}
+@media (min-width: 721px) {
+#u22{font-size: 0.16rem;}
+#u22:before{content: ""; display: none;}
+#u21{font-size: 0.16rem;}
+#u206eb930-64a1-4758-94d9-36c146b6b475{font-size: 0.16rem;}
+#u5{font-size: 0.16rem;}
+#u3{font-size: 0.1872rem;}
+
+#u4{font-size: 0.24rem;}
+
+#u7{font-size: 0.16rem;}
+
+#u17{overflow: hidden;;font-size: 0.16rem;}
+#u10{height: 3rem; width: 3.6rem; position: absolute; top: -0.51rem; left: 0rem;;font-size: 0.16rem;}
+
+#u19{font-size: 0.16rem;}
+#u19>article:nth-of-type(1){font-size: 0.16rem;}
+#u19>article:nth-of-type(1)>h1:nth-of-type(1){font-size: 0.16rem;}
+
+#u19>article:nth-of-type(1)>p:nth-of-type(1){font-size: 0.16rem;}
+
+#u19>article:nth-of-type(1)>img:nth-of-type(1){font-size: 0.16rem;}
+
+#u23{font-size: 0.16rem;}
+
+}</style><script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js"></script><script>WebFont.load({"google":{"families":["Roboto:300,700","Roboto:500,500italic,900,900italic"]}});</script><style type="text/css">html {font-family: 'Roboto';font-weight: 500;}
+ .layout-system .hero {font-family: 'Roboto';font-weight: 300;}
+ .layout-system .title {font-family: 'Roboto';}
+ .layout-system .subtitle {font-family: 'Roboto';}
+ .layout-system .description {font-family: 'Roboto';}
+ .layout-system .title {font-weight: 700;}
+ .layout-system .subtitle {font-weight: 300;}
+ a {font-family: 'Roboto';font-weight: 500;}
+ .attribution {font-family: 'Roboto';font-weight: 500;text-transform: uppercase;letter-spacing: .03em;}
+ .layout-system .quote {font-family: 'Roboto';font-weight: 300;font-style: normal;}
+ .layout-system .title {text-transform: uppercase;letter-spacing: .07em;}</style></head>
+
+  <body id="u24"><script src="//cdn.thegrid.io/design-systems/taylor/0.0.57/src/assets/gss-init.js" id="u0"></script>
+    <!-- <div id="grid">
+  <div class="col1"></div>
+  <div class="col2"></div>
+  <div class="col3"></div>
+  <div class="col4"></div>
+  <div class="col5"></div>
+  <div class="col6"></div>
+  <div class="col7"></div>
+  <div class="col8"></div>
+  <div class="col9"></div>
+  <div class="col10"></div>
+  <div class="col11"></div>
+  <div class="col12"></div>
+  <div class="col13"></div>
+  <div class="col15"></div>
+  <div class="col16"></div>
+  <div class="col17"></div>
+  <div class="col18"></div>
+  <div class="col19"></div>
+  <div class="col20"></div>
+  <div class="row1"></div>
+  <div class="row2"></div>
+  <div class="row3"></div>
+  <div class="row4"></div>
+  <div class="row5"></div>
+  <div class="row6"></div>
+  <div class="row7"></div>
+  <div class="row8"></div>
+  <div class="row9"></div>
+  <div class="row10"></div>
+  <div class="row11"></div>
+  <div class="row12"></div>
+  <div class="row13"></div>
+  <div class="row15"></div>
+  <div class="row16"></div>
+  <div class="row17"></div>
+  <div class="row18"></div>
+  <div class="row19"></div>
+  <div class="row20"></div>
+  <div class="row21"></div>
+  <div class="row22"></div>
+  <div class="row23"></div>
+  <div class="row24"></div>
+  <div class="row25"></div>
+  <div class="row26"></div>
+  <div class="row27"></div>
+  <div class="row28"></div>
+  <div class="row29"></div>
+  <div class="row30"></div>
+</div> -->
+    <div class="layout-system computed fallback sections" id="u22">
+      <section class="section-fallback left section" id="u21">
+        <article class="post" id="u206eb930-64a1-4758-94d9-36c146b6b475">
+          <div class="titles" id="u5">
+            <h1 class="title text" id="u3">A History of Graphic Design: Chapter 42; The Swiss Grid System -- and the Dutch Total Grid</h1>
+            <h2 class="subtitle text" id="u4"></h2>
+          </div>
+          <p class="description text" id="u7">ldkjlakdjbvlkjdbv</p>
+          <div class="cover image" id="u17"><style type="text/gss" scoped="scoped" id="u9">overflow: hidden;
+"viewport"[top] == &top px  !require;
+"viewport"[left] == &left  px !require;
+"viewport"[height] == &height px  !require;
+"viewport"[width] == &width  px !require;
+
+@v |~[cover-v-gap]~("viewport")~[cover-v-gap]~| in(img) !strong900;
+@h |~[cover-h-gap]~("viewport")~[cover-h-gap]~| in(img) !strong900;
+
+cover-h-gap == 0 !strong;
+cover-v-gap == 0 !strong;
+
+image-min-scale = 0.3;
+image-max-scale = 1;
+
+/* Define image dimensions and ratio */
+image-scale == img[width] / 1200 !require;
+img[height] == img[width] * (999/1200) !require;
+
+/* enforce minimum scale*/
+img[height] >= 999 * image-min-scale !require;
+img[height] <= 999 * image-max-scale !require;</style>
+            <img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/23b265405453d36cad3295f980d2259b/passthrough.jpg?input=http%3A%2F%2F1.bp.blogspot.com%2F-c4BhuIBBDNU%2FU02zz6jZ60I%2FAAAAAAAAaH8%2F69jyGUFkzy8%2Fs1600%2Fa1.jpg&width=1200&height=999" srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3654d289b18ba0f590b3e82119167d50/passthrough.jpg?input=http%3A%2F%2F1.bp.blogspot.com%2F-c4BhuIBBDNU%2FU02zz6jZ60I%2FAAAAAAAAaH8%2F69jyGUFkzy8%2Fs1600%2Fa1.jpg&width=720&height=599.4 720w, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/23b265405453d36cad3295f980d2259b/passthrough.jpg?input=http%3A%2F%2F1.bp.blogspot.com%2F-c4BhuIBBDNU%2FU02zz6jZ60I%2FAAAAAAAAaH8%2F69jyGUFkzy8%2Fs1600%2Fa1.jpg&width=1200&height=999 1200w" sizes="sizes='(min-width: 1400px) 1400px, 100vw'" id="u10" /><style type="text/gss" scoped="scoped" id="u12">/* define  area of importance */
+"face"[x] == img[x] + 370.3125 * image-scale !require;
+"face"[y] == img[y] + 495.703125 * image-scale !require;
+"face"[width] ==  38.671875 * image-scale !require;
+"face"[height] == 38.671875 * image-scale !require;
+
+/* Keep face towards original position */
+"face"[center-x] == "viewport"[center-x];
+"face"[center-y] == "viewport"[center-y];
+
+@v |~("face")~| in("viewport") !medium500;
+@h |~("face")~| in("viewport") !medium500;</style><style type="text/gss" scoped="scoped" id="u14">/* define  blank spot */
+"space"[x] == img[x] + 1330 * image-scale !require;
+"space"[y] == img[y] + 0 * image-scale !require;
+"space"[width] ==  700 * image-scale !require;
+"space"[height] == 1400 * image-scale !require;</style><style type="text/gss" scoped="scoped" id="u16">/* define  area of importance */
+"scene"[x] == img[x] + 2 * image-scale !require;
+"scene"[y] == img[y] + 336 * image-scale !require;
+"scene"[width] ==  1694 * image-scale !require;
+"scene"[height] == 1366 * image-scale !require;
+
+/* Keep saliency towards original position */
+"scene"[center-x] == "viewport"[center-x];
+"scene"[center-y] == "viewport"[center-y];
+
+@v |~("scene")~| in("viewport");
+@h |~("scene")~| in("viewport");</style></div>
+          <div class="html" id="u19">
+            <article>
+              <h1>A History of Graphic Design: Chapter 42; The Swiss Grid System -- and the Dutch Total Grid</h1>
+              <p>ldkjlakdjbvlkjdbv</p>
+              <img src="http://1.bp.blogspot.com/-c4BhuIBBDNU/U02zz6jZ60I/AAAAAAAAaH8/69jyGUFkzy8/s1600/a1.jpg">
+            </article>
+          </div>
+        </article>
+      </section>
+    </div>
+    <div id="u23"></div>
+  </body>
+
+</html>
