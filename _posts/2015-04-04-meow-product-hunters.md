@@ -2,21 +2,22 @@
 author: []
 related: []
 publisher:
-  url: "http://wesnap.co"
+  url: 'http://wesnap.co'
   name: WeSnap
-  favicon: "http://wesnap.co/favicon.ico"
+  favicon: 'http://wesnap.co/favicon.ico'
   domain: wesnap.co
 keywords: []
-description: "WeSnap is launched on the App Store today! Also you get a special Android BETA version, available only for Product Hunters!"
+description: 'WeSnap is launched on the App Store today! Also you get a special Android BETA version, available only for Product Hunters!'
 inLanguage: null
 app_links: []
-isBasedOnUrl: "http://wesnap.co/ph/?ref=producthunt"
-title: "Meow Product Hunters!"
-datePublished: "2015-04-04T12:42:18.634Z"
-dateModified: "2015-05-18T13:22:45.404Z"
+isBasedOnUrl: 'http://wesnap.co/ph/?ref=producthunt'
+title: 'Meow Product Hunters!'
+datePublished: '2015-04-04T12:42:18.634Z'
+dateModified: '2015-06-12T03:49:17.751Z'
 sourcePath: _posts/2015-04-04-meow-product-hunters.md
 published: true
-_context: "http://schema.org"
+url: meow-product-hunters/index.html
+_context: 'http://schema.org'
 _type: Article
 
 ---
