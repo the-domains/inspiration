@@ -54,7 +54,7 @@ datePublished: '2010-04-30T11:09:01.000Z'
 app_links: []
 isBasedOnUrl: 'http://www.troytempleman.com/2010/04/30/grids-in-graphic-design/'
 title: Grids in Graphic Design
-dateModified: '2015-06-16T00:59:40.830Z'
+dateModified: '2015-06-16T21:01:31.676Z'
 sourcePath: _posts/2010-04-30-grids-in-graphic-design.md
 published: true
 starred: false
