@@ -50,11 +50,11 @@ keywords:
   - use
 description: "In my last blog post, I discussed the rules of good typography. I intentionally omitted grids because I felt it's not only limited to typography and hence deserved it's own post. Grids in graphic design refers to a series of intersecting horizontal and vertical lines that are used to structure content on a page."
 inLanguage: English
-datePublished: '2010-04-30T11:09:01.000Z'
+datePublished: '2015-09-01T18:16:27.469Z'
 app_links: []
 isBasedOnUrl: 'http://www.troytempleman.com/2010/04/30/grids-in-graphic-design/'
 title: Grids in Graphic Design
-dateModified: '2015-06-16T21:01:31.676Z'
+dateModified: '2015-09-01T18:08:36.660Z'
 sourcePath: _posts/2010-04-30-grids-in-graphic-design.md
 published: true
 starred: false
