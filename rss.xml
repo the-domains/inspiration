@@ -5,8 +5,15 @@
         <description><![CDATA[Inspiration]]></description>
         <link>https://thegrid.ai/inspiration/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Sep 2015 18:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2015 18:18:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/inspiration/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid: Platform]]></title>
+            <description><![CDATA[<article><h1>The Grid: Platform</h1><p>Working designs of the Grid platform. A collection of conceptualisations of what is currently being developed. *Subject to change for something more awesome.</p></article>]]></description>
+            <link>https://www.behance.net/gallery/26329337/The-Grid-Platform</link>
+            <guid isPermaLink="false">24b34421-a2aa-425a-b7ff-83d520bad18b</guid>
+            <pubDate>Tue, 01 Sep 2015 18:16:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/a9aeac99-31d1-4073-ba4e-f40675a2f76a.png">]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>How to plan and run the perfect UX workshop - UX for the masses</h1><p>Want to get some ideas to for a particular design challenge? Run a workshop. Want to evaluate designs with stakeholders? Run a workshop. Want to gather insights from domain experts? Run a workshop. Want to prioritise a set of features? Run a workshop. Want to... OK, you get the idea!</p><img src="http://www.uxforthemasses.com/blog/wp-content/uploads/2014/12/cub-scouts.jpg"></article>]]></description>
             <link>http://www.uxforthemasses.com/ux-workshops/</link>
             <guid isPermaLink="false">25b1a73a-29dc-4b22-82e6-da1d9376da18</guid>
-            <pubDate>Tue, 01 Sep 2015 18:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[gravity and geometry - Google Search]]></title>
-            <description><![CDATA[<article><h1>gravity and geometry - Google Search</h1><p>null</p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpdwtn00RZlRdSV5K-LZ-rsmtlYaqK8q-F3dbbBDFz9hg-qW4t7rTp178"></article>]]></description>
-            <link>https://thegrid.ai/inspiration/gravity-and-geometry-google-search/index.html</link>
-            <guid isPermaLink="false">3d29cc3e-f53f-4a1b-af7c-d4e04a451114</guid>
             <pubDate>Tue, 01 Sep 2015 18:16:27 GMT</pubDate>
         </item>
     </channel>
