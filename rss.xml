@@ -5,8 +5,15 @@
         <description><![CDATA[Inspiration]]></description>
         <link>https://thegrid.ai/inspiration/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Sep 2015 18:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2015 18:18:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/inspiration/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Inner Geometry of Alchemical Emblems]]></title>
+            <description><![CDATA[<article><h1>The Inner Geometry of Alchemical Emblems</h1><p>null</p><img src="http://www.levity.com/alchemy/panel_texts.gif"></article>]]></description>
+            <link>https://thegrid.ai/inspiration/the-inner-geometry-of-alchemical-emblems/index.html</link>
+            <guid isPermaLink="false">32d0e0b6-5d86-4390-bab2-99452d489c3d</guid>
+            <pubDate>Tue, 01 Sep 2015 18:16:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Creating a Site - The Grid Knowledge Base]]></title>
             <description><![CDATA[<article><h1>Creating a Site - The Grid Knowledge Base</h1><p>Once you're logged in to the Grid, you can put it to work immediately. See that circle-with-lines thingy over in the top left? Hover over that to pop out the Si</p><img src="http://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5586971de4b01a224b42d302/192.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/inspiration/the-ai-revolution-road-to-superintelligence-wait-but-why/index.html</link>
             <guid isPermaLink="false">cce62344-3528-41bc-8797-5cd546413cb6</guid>
             <pubDate>Tue, 01 Sep 2015 18:16:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Start of a Design Evolution]]></title>
-            <description><![CDATA[<article><h1>The Start of a Design Evolution</h1><p>The Start of a Design Evolution - The Grid - Medium</p></article>]]></description>
-            <link>https://thegrid.ai/inspiration/the-start-of-a-design-evolution/index.html</link>
-            <guid isPermaLink="false">bf32f41d-9dd9-4c96-b05d-259c6bea97a5</guid>
-            <pubDate>Tue, 01 Sep 2015 18:16:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
