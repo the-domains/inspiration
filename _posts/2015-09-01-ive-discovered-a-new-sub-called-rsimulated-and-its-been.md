@@ -22,11 +22,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://m.imgur.com/gallery/coMjC'
 title: "I've discovered a new sub called /r/Simulated and It's been blowing my fucking mind for over an hour. Check out some of my favorites"
-datePublished: '2015-09-01T18:16:28.170Z'
+datePublished: '2015-10-13T07:03:30.912Z'
 sourcePath: _posts/2015-09-01-ive-discovered-a-new-sub-called-rsimulated-and-its-been.md
 published: true
-dateModified: '2015-09-01T18:14:58.540Z'
+dateModified: '2015-09-12T18:11:10.167Z'
 starred: false
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
