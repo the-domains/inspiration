@@ -5,8 +5,15 @@
         <description><![CDATA[Inspiration]]></description>
         <link>https://thegrid.ai/inspiration/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 02:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 02:10:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/inspiration/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>quickly</p>]]></description>
+            <link>https://thegrid.ai/inspiration/quickly/index.html</link>
+            <guid isPermaLink="false">43e53103-5373-4d19-884e-005de0e35084</guid>
+            <pubDate>Wed, 14 Oct 2015 02:08:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid designed by Leigh Taylor]]></title>
             <description><![CDATA[<article><h1>The Grid designed by Leigh Taylor</h1><img src="http://www.cssdesignawards.com/cdasites/2015/201502/20150218144540.jpg"></article>]]></description>
