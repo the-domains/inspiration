@@ -1,20 +1,23 @@
 ---
 description: Math animated gifs
-isBasedOnUrl: 'content://269cebca-2f55-4180-a128-338a6b2eba2b'
 author: []
 publisher:
+  favicon: null
   name: 269cebca-2f55-4180-a128-338a6b2eba2b
   domain: 269cebca-2f55-4180-a128-338a6b2eba2b
   url: null
-  favicon: null
-datePublished: '2015-09-01T18:16:27.398Z'
-dateModified: '2015-09-01T18:15:52.541Z'
+datePublished: '2015-10-20T17:29:01.505Z'
+dateModified: '2015-09-12T18:11:10.093Z'
 sourcePath: _posts/2015-06-16-math-animated-gifs.md
 published: true
 inLanguage: null
 starred: false
 keywords: []
 authors: []
+title: ''
+inFeed: true
+hasPage: true
+inNav: false
 url: math-animated-gifs/index.html
 _context: 'http://schema.org'
 _type: Article
