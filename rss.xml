@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Inspiration]]></title>
         <description><![CDATA[Inspiration]]></description>
         <link>https://thegrid.ai/inspiration/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 02:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 15:27:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/inspiration/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,7 +32,7 @@
             <description><![CDATA[<article><h1>Creating a Site - The Grid Knowledge Base</h1><p>Once you're logged in to the Grid, you can put it to work immediately. See that circle-with-lines thingy over in the top left? Hover over that to pop out the Si</p><img src="http://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5586971de4b01a224b42d302/192.png"></article>]]></description>
             <link>http://help.thegrid.io/article/38-beta-site-creation</link>
             <guid isPermaLink="false">f45bcaa3-646a-467d-b05d-2b82fa1a411c</guid>
-            <pubDate>Tue, 01 Sep 2015 18:16:28 GMT</pubDate>
+            <pubDate>Tue, 20 Oct 2015 15:27:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid: Platform]]></title>
