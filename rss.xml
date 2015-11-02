@@ -4,7 +4,7 @@
         <description><![CDATA[Inspiration]]></description>
         <link>https://thegrid.ai/inspiration/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 19:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2015 18:02:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/inspiration/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid designed by Leigh Taylor]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cssdesignawards.com/sites/the-grid/26017/</link>
             <guid isPermaLink="false">ea166d4e-d7d8-4b9f-9385-65dbb610327d</guid>
             <pubDate>Tue, 27 Oct 2015 19:06:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Websites That Design Themselves]]></title>
+            <description><![CDATA[<article><h1>AI Websites That Design Themselves</h1><p>This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.</p><img src="http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png"></article>]]></description>
+            <link>https://thegrid.io/</link>
+            <guid isPermaLink="false">3e89f00c-4c3f-4804-8d4a-ce934beabb95</guid>
+            <pubDate>Mon, 02 Nov 2015 18:00:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Math animated gifs]]></title>
@@ -68,13 +75,6 @@
             <link>http://m.imgur.com/gallery/coMjC</link>
             <guid isPermaLink="false">ada6840c-c1df-4120-8b88-2570f1d7c7fb</guid>
             <pubDate>Tue, 13 Oct 2015 07:03:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[These photos of waves are incredible, so I'm sharing with you]]></title>
-            <description><![CDATA[<article><h1>These photos of waves are incredible, so I'm sharing with you</h1><p>The Internet's visual storytelling community. Explore, share, and discuss the best visual stories the Internet has to offer.</p><img src="http://i.imgur.com/Ut7oB51.jpg?fb"></article>]]></description>
-            <link>https://thegrid.ai/inspiration/these-photos-of-waves-are-incredible-so-im-sharing-with-yo/index.html</link>
-            <guid isPermaLink="false">593da5d6-c9ef-46c8-82be-ffb569bf8e22</guid>
-            <pubDate>Tue, 01 Sep 2015 18:16:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
