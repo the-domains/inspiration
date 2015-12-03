@@ -5,22 +5,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.7556391
   lightness: 0
   brandStrength: 0.4129968
   brandColors:
-    - '#4e4a49'
-    - '#040203'
-    - '#9d7a64'
-    - '#292524'
-    - '#ccb09b'
+    - '#C5C8D6'
+    - '#665C53'
+    - '#9A8877'
+    - '#FFFDFA'
+    - '#0D0301'
   rhythmicContrast: 0.4162191
 cta:
   bucket: null
@@ -30,13 +30,13 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Inspiration
 favicon: null
 purposes:
   - followers
+name: Inspiration
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.3356606
+typography_spectrum: 0.1498389
 layout_spectrum: 0.38653
